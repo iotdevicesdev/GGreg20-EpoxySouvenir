@@ -40,6 +40,10 @@ So, by ordering this souvenir as a keepsake, you are also donating to Ukraine.
 ## Package contents
 GGreg20_ES souvenir Geiger counter - 1 pc.
 
+The version of the GGreg20 module, tube type, linear dimensions, and appearance of the module may slightly differ from the data and photos in the description of each ordered souvenir product, as the epoxy resin is filled manually and the main goal of the project is to remove defective Geiger tubes from the market. 
+
+What we can guarantee is that you will receive a product with a GGreg20 module and Geiger tube, which are filled with transparent, high-quality and non-toxic resin. 
+
 ## Instructions for use
 In our opinion, there are many possibilities for the use of this souvenir product:
 - Place on a table
