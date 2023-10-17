@@ -1,7 +1,7 @@
 # GGreg20_ES - Souvenir Geiger Counter
 You are reading the description of an unusual art product: on the one hand, it is embedded DIY electronics, on the other hand, it is a product that is non-functional by design. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
 
-**Please note**! This product is not a working Geiger counter, but only a souvenir. If you were looking for GGreg20_V3, such a module can be ordered at the [link](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/edit/main/README.md#related-radiation-detection-applications-links).
+**Please note**! This product is not a working Geiger counter, but only a souvenir. If you were looking for GGreg20_V3, such a module can be ordered at the [link](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/tree/main#related-radiation-detection-applications-links).
 
 ## How it started
 To manufacture these souvenirs, we deliberately purchase non-functional Geiger tubes on the Ukrainian market that could be sold on the global DIY market as part of commercial products. As participants in the DIY market, we see how the same broken or exhausted tubes are resold several times from hand to hand, because no one wants to lose potential profit.
