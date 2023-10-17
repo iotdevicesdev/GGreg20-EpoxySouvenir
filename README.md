@@ -4,6 +4,7 @@
 You are reading the description of an unusual art product: on the one hand, it is embedded DIY electronics, on the other hand, it is a product that is non-functional by design. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
 
 **Please note**! This product is not a working Geiger counter, but only a souvenir. If you were looking for GGreg20_V3, such a module can be ordered at the [link](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/tree/main#related-radiation-detection-applications-links).
+
 ![GGreg20_ES_photo8951](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/a7ba5f98-0760-408c-9be8-4064d4ec16e3)
 
 ## Product memo card
@@ -46,6 +47,17 @@ In our opinion, there are many possibilities for the use of this souvenir produc
 - Embedded into a surface
 - Demonstrate to colleagues, friends, children
 
+## How to order
+The product is supplied from Kyiv to all countries of the world, except for countries under international sanctions or accused of war crimes and crimes against humanity. 
+Half of the profits from the sale of this product are allocated to defence projects and the Armed Forces of Ukraine.
+
+You can order the product on our website or on Tindie:
+
+[IoT-devices website](https://go.iot-devices.com.ua/souvenir-geiger-counter)
+
+[Tindie Marketplace](https://go.iot-devices.com.ua/ggreg20_es_tindie) 
+
+**Please note** that IoT-devices, LLC does not do business with russian citizens anywhere in the world.
 
 ## Easy Links
 
