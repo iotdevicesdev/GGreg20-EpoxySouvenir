@@ -1,10 +1,16 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
+
 # GGreg20_ES - Souvenir Geiger Counter
 You are reading the description of an unusual art product: on the one hand, it is embedded DIY electronics, on the other hand, it is a product that is non-functional by design. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
 
 **Please note**! This product is not a working Geiger counter, but only a souvenir. If you were looking for GGreg20_V3, such a module can be ordered at the [link](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/tree/main#related-radiation-detection-applications-links).
 
+## Product memo card
+![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/08e8f3fb-989f-441a-8347-86c0d30d20a1)
+
+
 ## How it started
-To manufacture these souvenirs, we deliberately purchase non-functional Geiger tubes on the Ukrainian market that could be sold on the global DIY market as part of commercial products. As participants in the DIY market, we see how the same broken or exhausted tubes are resold several times from hand to hand, because no one wants to lose potential profit.
+To manufacture these souvenirs, we deliberately purchase non-functional Geiger tubes on the Ukrainian market that could be sold on the global DIY market as part of commercial products. As participants in the DIY market, we see how the same broken or exhausted tubes are resold several times from hand to hand, because no one wants to lose potential profit. We recently posted a [video on our YouTube channel](https://www.youtube.com/watch?v=Hl_sJPMLpQ4&ab_channel=iot-devices) showing how the faulty SBM-20 tube works. Unfortunately, there are still a lot of such tubes on the market. That's why we started making souvenirs out of them.
 
 Also, rejected boards of the popular GGreg20 module of various versions and from various stages of production are used in our GGreg20 Epoxy Souvenir project.
 
@@ -53,8 +59,6 @@ In our opinion, there are many possibilities for the use of this souvenir produc
 
 <a href="https://www.tindie.com/stores/iotdev/?ref=offsite_badges&utm_source=sellers_iotdevices&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
-## Product memo card
-![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/08e8f3fb-989f-441a-8347-86c0d30d20a1)
 ## Technical data
 ![AllTogather_GGreg20_ES_XYZ_pic](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/f6d8d21a-6cde-4acf-97dc-6876e76a474f)
 
