@@ -28,6 +28,8 @@ As a result, we get a transparent block of epoxy resin, which contains a forever
 
 ![GGreg20_ES_photo8909](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/740c7a80-5ae5-4e03-8b0b-8dab9ed8c153)
 
+![GGreg20_ES_photo9474](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/c717d86c-241b-4865-a4c2-7b7e9abc7b90)
+
 
 The epoxy resin casting guarantees that this time the Geiger tube will not return to the gray market of DIY radio components.
 
