@@ -61,6 +61,8 @@ You can order the product on our website or on Tindie:
 
 [Tindie Marketplace](https://go.iot-devices.com.ua/ggreg20_es_tindie) 
 
+<a href="https://www.tindie.com/stores/iotdev/?ref=offsite_badges&utm_source=sellers_iotdevices&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
 **Please note** that IoT-devices, LLC does not do business with russian citizens anywhere in the world.
 
 ## Easy Links
@@ -78,8 +80,6 @@ You can order the product on our website or on Tindie:
 [go.iot-devices.com.ua/high-voltage-converter](https://go.iot-devices.com.ua/high-voltage-converter) <=> [go.iot-devices.com.ua/dcdc_3v3_400v_v1](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1)
 
 [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) <=> [go.iot-devices.com.ua/gcemu20_v1](https://go.iot-devices.com.ua/gcemu20_v1)
-
-<a href="https://www.tindie.com/stores/iotdev/?ref=offsite_badges&utm_source=sellers_iotdevices&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 ## Technical data
 ![AllTogather_GGreg20_ES_XYZ_pic](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/f6d8d21a-6cde-4acf-97dc-6876e76a474f)
