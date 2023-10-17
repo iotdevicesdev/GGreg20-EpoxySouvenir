@@ -4,10 +4,10 @@
 You are reading the description of an unusual art product: on the one hand, it is embedded DIY electronics, on the other hand, it is a product that is non-functional by design. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
 
 **Please note**! This product is not a working Geiger counter, but only a souvenir. If you were looking for GGreg20_V3, such a module can be ordered at the [link](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/tree/main#related-radiation-detection-applications-links).
+![GGreg20_ES_photo8951](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/a7ba5f98-0760-408c-9be8-4064d4ec16e3)
 
 ## Product memo card
 ![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/08e8f3fb-989f-441a-8347-86c0d30d20a1)
-
 
 ## How it started
 To manufacture these souvenirs, we deliberately purchase non-functional Geiger tubes on the Ukrainian market that could be sold on the global DIY market as part of commercial products. As participants in the DIY market, we see how the same broken or exhausted tubes are resold several times from hand to hand, because no one wants to lose potential profit. We recently posted a [video on our YouTube channel](https://www.youtube.com/watch?v=Hl_sJPMLpQ4&ab_channel=iot-devices) showing how the faulty SBM-20 tube works. Unfortunately, there are still a lot of such tubes on the market. That's why we started making souvenirs out of them.
@@ -20,6 +20,12 @@ Also, rejected boards of the popular GGreg20 module of various versions and from
 As a result, we get a transparent block of epoxy resin, which contains a forever preserved GGreg20 module with a Geiger tube inside.
 
 ![GGreg20_ES_photo8907](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/030b7026-a934-49d7-b74c-fe2afc7e930d)
+
+![GGreg20_ES_photo8910](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/4bd9a2b1-6f8b-41d9-a7f8-7920c9f9c861)
+
+![GGreg20_ES_photo8911](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/09b0e998-bef2-422c-96c0-4b5134d36e5b)
+
+![GGreg20_ES_photo8909](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/740c7a80-5ae5-4e03-8b0b-8dab9ed8c153)
 
 
 The epoxy resin casting guarantees that this time the Geiger tube will not return to the gray market of DIY radio components.
