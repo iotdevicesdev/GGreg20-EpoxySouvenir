@@ -24,6 +24,17 @@ The epoxy resin casting guarantees that this time the Geiger tube will not retur
 
 So, by ordering this souvenir as a keepsake, you are also donating to Ukraine.
 
+## Package contents
+GGreg20_ES souvenir Geiger counter - 1 pc.
+
+## Instructions for use
+In our opinion, there are many possibilities for the use of this souvenir product:
+- Place on a table
+- Hang on the wall
+- Embedded into a surface
+- Demonstrate to colleagues, friends, children
+
+
 ## Easy Links
 
 ### Unique Vendor ID
@@ -52,18 +63,19 @@ X: 150 mm
 
 Y: 50 mm
 
-Z: 25 mm
+Z: 25 mm +- 5mm
 
 W: approximately 145 grams
+### Used materials
 
-Resin: transparent, non-toxic, EpoxyTable 5-five by RESIN PRO (Italy) with powerful UV filters in both components
+Resin: transparent, non-toxic, EpoxyTable 5-five by [RESIN PRO (Italy)](https://www.resinpro.it/product/resina-epossidica-atossica-per-tavoli-epoxytable-5-five-colate-perfette-fino-5-cm/?attribute_quantita=3.10+kg&cgkit_search_word=5-five#&gid=1&pid=1) with powerful UV filters in both components
 
-Resin datasheet: LINK
+Resin datasheet: [RESIN PRO (Italy) link](https://drive.google.com/file/d/13ryMjB3ztduQghxsnyKevkjctVSZcSWk/view)
 
-Component A datasheet: LINK
+Component A datasheet: [RESIN PRO (Italy) link](https://www.resinpro.it/wp-content/uploads/2020/01/SDS-ResinPro-srl-Epoxytable-5-NEW-A.pdf)
 
-Component A datasheet: LINK
+Component A datasheet: [RESIN PRO (Italy) link](https://www.resinpro.it/wp-content/uploads/2020/01/SDS-ResinPro-srl-Epoxytable-5-NEW-B.pdf)
 
-Certificate of non-toxicity: LINK
+Certificate of non-toxicity: [RESIN PRO (Italy) link](https://resinpro.fr/wp-content/uploads/2022/12/epoxytable-five-certificato-di-atossicita.pdf)
 
 
