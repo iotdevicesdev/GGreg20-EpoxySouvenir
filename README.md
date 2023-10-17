@@ -45,4 +45,25 @@ So, by ordering this souvenir as a keepsake, you are also donating to Ukraine.
 ## Product memo card
 ![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/08e8f3fb-989f-441a-8347-86c0d30d20a1)
 ## Technical data
+![AllTogather_GGreg20_ES_XYZ_pic](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/f6d8d21a-6cde-4acf-97dc-6876e76a474f)
+
+### Dimensions and weight
+X: 150 mm
+
+Y: 50 mm
+
+Z: 25 mm
+
+W: approximately 145 grams
+
+Resin: transparent, non-toxic, EpoxyTable 5-five by RESIN PRO (Italy) with powerful UV filters in both components
+
+Resin datasheet: LINK
+
+Component A datasheet: LINK
+
+Component A datasheet: LINK
+
+Certificate of non-toxicity: LINK
+
 
