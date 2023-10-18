@@ -47,6 +47,11 @@ The version of the GGreg20 module, tube type, linear dimensions, and appearance 
 What we can guarantee is that you will receive a product with a GGreg20 module and Geiger tube, which are filled with transparent, high-quality and non-toxic resin. 
 
 ## Instructions for use
+No cabeling -
+No soldering -
+No drivers -
+No coding
+
 In our opinion, there are many possibilities for the use of this souvenir product:
 - Place on a table
 - Hang on the wall
