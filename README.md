@@ -8,7 +8,7 @@ You are reading the description of an unusual art product: on the one hand, it i
 ![GGreg20_ES_photo8951](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/a076d4df-3c72-4e1b-ab12-7154d809fae9)
 
 ## Product memo card
-![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/08e8f3fb-989f-441a-8347-86c0d30d20a1)
+![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/4f9b6069-81d3-4c7c-a70d-62c9cbcc2835)
 
 ## How it started
 To manufacture these souvenirs, we deliberately purchase non-functional Geiger tubes on the Ukrainian market that could be sold on the global DIY market as part of commercial products. As participants in the DIY market, we see how the same broken or exhausted tubes are resold several times from hand to hand, because no one wants to lose potential profit. We recently posted a [video on our YouTube channel](https://www.youtube.com/watch?v=Hl_sJPMLpQ4&ab_channel=iot-devices) showing how the faulty SBM-20 tube works. Unfortunately, there are still a lot of such tubes on the market. That's why we started making souvenirs out of them.
@@ -89,7 +89,7 @@ You can order the product on our website or on Tindie:
 [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) <=> [go.iot-devices.com.ua/gcemu20_v1](https://go.iot-devices.com.ua/gcemu20_v1)
 
 ## Technical data
-![AllTogather_GGreg20_ES_XYZ_pic](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/f6d8d21a-6cde-4acf-97dc-6876e76a474f)
+![AllTogather_GGreg20_ES_XYZ_pic](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/c0ee8c09-3f63-4664-a63a-de46705ea75b)
 
 ### Dimensions and weight
 X: 150 mm
