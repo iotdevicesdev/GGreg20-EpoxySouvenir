@@ -5,7 +5,7 @@ You are reading the description of an unusual art product: on the one hand, it i
 
 **Please note**! This product is not a working Geiger counter, but only a souvenir. If you were looking for GGreg20_V3, such a module can be ordered at the [link](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/tree/main#related-radiation-detection-applications-links). Also see the GitHub repository dedicated to [GGreg20_V3 DIY Geiger counter](https://go.iot-devices.com.ua/github-ggreg20_v3).
 
-![GGreg20_ES_photo8951](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/a7ba5f98-0760-408c-9be8-4064d4ec16e3)
+![GGreg20_ES_photo8951](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/a076d4df-3c72-4e1b-ab12-7154d809fae9)
 
 ## Product memo card
 ![ggreg20_es_product_card_v2](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/08e8f3fb-989f-441a-8347-86c0d30d20a1)
@@ -15,20 +15,20 @@ To manufacture these souvenirs, we deliberately purchase non-functional Geiger t
 
 Also, rejected boards of the popular GGreg20 module of various versions and from various stages of production are used in our GGreg20 Epoxy Souvenir project.
 
-![GGreg20_ES_starting_components_box_photo](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/6fb3ffcf-7d73-4e54-b724-da525e8ce9cc)
+![GGreg20_ES_starting_components_box_photo](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/eb2b6449-c6ed-448d-8e1c-7c2b16f02357)
 
 ## How it's going
 As a result, we get a transparent block of epoxy resin, which contains a forever preserved GGreg20 module with a Geiger tube inside.
 
-![GGreg20_ES_photo8907](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/030b7026-a934-49d7-b74c-fe2afc7e930d)
+![GGreg20_ES_photo8907](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/e7263238-ac5a-44ff-a960-016c20d8d803)
 
-![GGreg20_ES_photo8910](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/4bd9a2b1-6f8b-41d9-a7f8-7920c9f9c861)
+![GGreg20_ES_photo8910](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/fa16b36e-9840-4df5-910a-7f92def64dec)
 
-![GGreg20_ES_photo8911](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/09b0e998-bef2-422c-96c0-4b5134d36e5b)
+![GGreg20_ES_photo8911](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/975344cd-7f3d-4000-b4ce-740ed926c0a5)
 
-![GGreg20_ES_photo8909](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/740c7a80-5ae5-4e03-8b0b-8dab9ed8c153)
+![GGreg20_ES_photo8909](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/8d447829-2b88-4ec3-92e7-ba8c629e2926)
 
-![GGreg20_ES_photo9474](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/c717d86c-241b-4865-a4c2-7b7e9abc7b90)
+![GGreg20_ES_photo9474](https://github.com/iotdevicesdev/GGreg20-EpoxySouvenir/assets/96241971/d7d37a45-9b8c-437c-8eef-8ec0bb3cac4a)
 
 
 The epoxy resin casting guarantees that this time the Geiger tube will not return to the gray market of DIY radio components.
