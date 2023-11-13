@@ -62,11 +62,13 @@ In our opinion, there are many possibilities for the use of this souvenir produc
 The product is supplied from Kyiv to all countries of the world, except for countries under international sanctions or accused of war crimes and crimes against humanity. 
 Half of the profits from the sale of this product are allocated to defence projects and the Armed Forces of Ukraine.
 
-You can order the product on our website or on Tindie:
+You can order the product on our website, on Tindie or Etsy:
 
 [IoT-devices website](https://go.iot-devices.com.ua/souvenir-geiger-counter)
 
 [Tindie Marketplace](https://go.iot-devices.com.ua/ggreg20_es_tindie) 
+
+[Etsy Store](https://go.iot-devices.com.ua/ggreg20_es_etsy)
 
 <a href="https://www.tindie.com/stores/iotdev/?ref=offsite_badges&utm_source=sellers_iotdevices&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
@@ -78,6 +80,9 @@ You can order the product on our website or on Tindie:
 [go.iot-devices.com.ua/ggreg20_es](https://go.iot-devices.com.ua/ggreg20_es)
 
 [go.iot-devices.com.ua/ggreg20_es_tindie](https://go.iot-devices.com.ua/ggreg20_es_tindie)
+
+[go.iot-devices.com.ua/ggreg20_es_etsy](https://go.iot-devices.com.ua/ggreg20_es_etsy)
+
 ### User Friendly ID
 [go.iot-devices.com.ua/souvenir-geiger-counter](https://go.iot-devices.com.ua/souvenir-geiger-counter)
 
