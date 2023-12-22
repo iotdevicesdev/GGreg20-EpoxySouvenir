@@ -1,5 +1,22 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+# Updated
+**GGreg20_ES Price Reduced**
+
+We have good news!
+
+For two months, we have been collecting and analyzing statistics for the pilot batch of the charity product GGreg20_ES – Epoxy souvenir Geiger counter and have come to the conclusion that we can significantly reduce the price of this wonderful product. And that is what we have done today.
+
+The rest of the project parameters remain unchanged. As a reminder, within the project, we are removing non-working Geiger tubes from the market and donating half of the profits from the sale of GGreg20_ES to defense and charity projects in Ukraine.
+
+So we invite you to order GGreg20_ES at the new price [on our website](https://go.iot-devices.com.ua/souvenir-geiger-counter) and [on the Etsy store](https://go.iot-devices.com.ua/ggreg20_es_etsy). Please note that orders are temporarily unavailable on Tindie as [our Tindie store](https://go.iot-devices.com.ua/ggreg20_es_tindie) is moving to the US . Please follow the news and updates on our website in this regard.
+
+**Also, please note that our stores are offering holiday discounts until the end of the year.**
+
+We wish you success! 
+
+Team IoT-devices
+
 # GGreg20_ES - Souvenir Geiger Counter
 You are reading the description of an unusual art product: on the one hand, it is embedded DIY electronics, on the other hand, it is a product that is non-functional by design. If you decide to order such a souvenir, you will participate in two charitable initiatives with the IoT-devices team.
 
